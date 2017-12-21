@@ -61,3 +61,11 @@ Nesse caso, o laboratório de informática, com acesso à internet, é fundament
 
 #### Minicurso Controle de Versões com Git
 Esse é um minicurso de média duração, estimado em **10 horas/aula**, no qual descrevo os comandos básicos do sistema Git. Nesse minicurso, podemos utilizar os softwares GitHub ou o BitBucket, pois ambos utilizam o Git como base. Um laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas para armazenar seus códigos e trabalhar em grupos.
+
+#### Valor do Investimento
+O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, todos os custos referentes ao transporte, estadia e alimentação são por conta do contratante. Para distâncias superiores a 200 km de distância rodoviária a partir de Campinas-SP, o trajeto deve ser feito por via aérea ou, alternativamente, veículo na categoria executivo superior (com custo adicional de R$ 150,00 a cada 100 km).
+
+Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula de minicurso por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia.
+
+### Contato
+Para entrar em contato comigo, utilize o email <gradvohl@ieee.org>.
