@@ -64,6 +64,27 @@ Você não precisa ler todo o livro para aprender a usar todas as ferramentas qu
 
 Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, algumas que talvez não precise, você pode "pegar um atalho" e deixar para explorar mais funcionalidades depois que já tiver aprendido o básico. Além disso, ao adquirir o livro, você terá sempre em mãos um guia rápido para sanar as dúvidas.
 
+### Alguns trechos
+Nas figuras a seguir, estão alguns trechos do livro dos capítulos 3, 4 e 5. A próxima figura é de uma parte do Capítulo 3 que fala sobre o Mendeley.
+
+![Trecho Capítulo 3][cap3]
+
+[cap3]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap3.png "Trecho do Capítulo 3"
+
+
+A figura a seguir mostra um trecho do Capítulo 4 que descreve o LaTeX.
+
+![Trecho Capítulo 4][cap4]
+
+[cap4]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap4.png "Trecho do Capítulo 4"
+
+Finalmente, a figura a seguir mostra um trecho do Capítulo 5 que comenta sobre o Overleaf.
+
+![Trecho Capítulo 5][cap5]
+
+[cap5]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap5.png "Trecho do Capítulo 5"
+
+
 ## Minicursos
 Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é contratando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
 
