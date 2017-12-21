@@ -1,7 +1,7 @@
 # A Pesquisa na Nuvem
 ## Ferramentas na internet para organizar e produzir seu trabalho acadêmico
 
-Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro, sobre o autor e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
+Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
 
 ![Capa do Livro][logo]
 
@@ -38,12 +38,26 @@ O LaTeX é um dos principais softwares para a produção de textos acadêmicos, 
 
 A última parte do livro comenta sobre outros softwares úteis para a pesquisa, inclusive o sistema Git e outras ferramentas úteis para pesquisadores. Entre essas ferramentas estão sites para identificação do pesquisador, para armazenamento de dados para pesquisa e redes sociais para pesquisadores. Todos os sites citados no livro são referenciados no final, inclusive com os QR-codes que permitem o acesso direto aos sites.
 
-A propósito, todo o livro foi escrito usando as ferramentas que o próprio livro cita: Trello, Mendeley, LaTeX, Overlaf e Github, entre outros.
+A propósito, todo o livro foi escrito usando as ferramentas que o próprio livro cita: Trello, Mendeley, LaTeX, Overlaf e Github, entre outros. **Todas essas ferramentas são gratuitas e estão disponíveis na Internet**.
 
 ### Por que vale a pena adquirir esse livro?
 Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. Dá para aprender tudo sozinho! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro vai direto ao ponto e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
 
-Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar os detalhes mais específicos para depois.
+Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar para explorar mais funcionalidades depois que já tiver aprendido o básico.
 
-## Palestras
+## Minicursos
+Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é solicitando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou ainda na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
 
+### Conteúdos dos minicursos
+A seguir, descrevo as propostas de minicursos e sua respectiva carga horária. Lembre-se que esses minicursos podem ser combinados e formar um curso mais completo, abrangendo dois ou mais temas.
+
+#### Minicurso Gerenciamento de tarefas de pesquisa
+Esse é um minicurso rápido, de **2 horas/aula** (cem minutos), no qual eu descrevo o software Trello e o método Kanban para pesquisa. O uso de laboratório de informática não é essencial. Porém, os participantes desse minicurso podem se beneficiar bastante se utilizarem equipamentos de informática para explorar as funcionalidades do Trello.
+
+#### Minicurso Produção de Documentos Acadêmicos
+Esse minicurso é mais longo, estimado em **20 horas/aula** no qual eu descrevo as ferramentas Mendeley, para gerenciamento de referências bibliográficas (2 horas/aula); LaTeX, para escrita de textos acadêmicos; e Overleaf, o editor para textos em LaTeX (18 horas/aula). O LaTeX e o Overleaf são ministrados simultaneamente, já que um complementa o outro.
+
+Nesse caso, o laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas e começar a editar seus próprios textos.
+
+#### Minicurso Controle de Versões com Git
+Esse é um minicurso de média duração, estimado em **10 horas/aula**, no qual descrevo os comandos básicos do sistema Git. Nesse minicurso, podemos utilizar os softwares GitHub ou o BitBucket, pois ambos utilizam o Git como base. Um laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas para armazenar seus códigos e trabalhar em grupos.
