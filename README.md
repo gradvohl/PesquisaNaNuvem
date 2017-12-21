@@ -72,19 +72,20 @@ Nesse caso, o laboratório de informática, com acesso à internet, é fundament
 Esse é um minicurso de média duração, estimado em **10 horas/aula**, no qual descrevo os comandos básicos do sistema Git. Nesse minicurso, podemos utilizar os softwares GitHub ou o BitBucket, pois ambos utilizam o Git como base. Um laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas para armazenar seus códigos e trabalhar em grupos.
 
 #### Valor do Investimento
-O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, todos os custos referentes ao transporte, estadia e alimentação são por conta do contratante. Para distâncias superiores a 200 km de distância rodoviária a partir de Campinas-SP, o trajeto deve ser feito por via aérea ou, alternativamente, veículo na categoria executivo superior (com custo adicional de R$ 150,00 a cada 100 km).
+O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, todos os custos referentes ao transporte, estadia e alimentação são por conta do contratante. Para distâncias superiores a 200 km de distância rodoviária a partir de Campinas-SP, o trajeto deve ser feito por via aérea ou, alternativamente, em veículo na categoria executivo superior (com custo adicional de R$ 150,00 a cada 100 km).
 
-Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula de minicurso por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia.
+Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia. Recomenda-se também que as turmas tenham no máximo 30 alunos, com 2 alunos por computador no máximo.
 
-A seguir, há uma tabela com o investimento em cada minicurso:
+A seguir, há uma tabela com os investimentos em cada minicurso ou combinação deles:
 
 |Minicurso | Quantidade de Horas/Aula | Quantidade mínima de dias | Valor estimado (sem outros custos associados)|
 |----------|:----------:|:----------:|:----------:|
-| (1) Gerenciamento de Tarefas | 2 | 1 | R$ 300,00 |
+| (1) Gerenciamento de Tarefas | 2  | 1 | R$ 300,00 |
 | (2) Produção de Documentos   | 20 | 5 | R$ 3.000,00 |
 | (3) Controle de Versões      | 10 | 3 | R$ 1.500,00 |
-| Minicurso (1+2)              | 22 | 6 | R$ 3.200,00 (com desconto)|
-| Minicurso (2+3)              | 30 | 8 | R$ 4.300,00 (com desconto)|
+| Minicursos (1+2)             | 22 | 6 | R$ 3.200,00 (com desconto)|
+| Minicursos (2+3)             | 30 | 8 | R$ 4.300,00 (com desconto)|
+| Minicursos (1+2+3)           | 32 | 8 | R$ 4.600,00 (com desconto)|
 
 ### Contato
-Para entrar em contato comigo, utilize o email <gradvohl@ieee.org>.
+Para entrar em contato comigo, envie um email para <gradvohl@ieee.org> com o título "Minicurso - Pesquisa na Nuvem".
