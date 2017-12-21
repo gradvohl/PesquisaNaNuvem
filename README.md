@@ -1,7 +1,9 @@
 # A Pesquisa na Nuvem
 ## Ferramentas na internet para organizar e produzir seu trabalho acadêmico
 
-Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o autor, sobre o livro e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
+Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o autor, sobre o livro e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. 
+
+O livro está disponível no site da [More Books](https://www.morebooks.de/store/es/book/a-pesquisa-na-nuvem/isbn/978-620-2-04282-6) ou no site da [Amazon](https://www.amazon.com/Pesquisa-Nuvem-Ferramentas-organizar-Portuguese/dp/6202042826). Veja a capa do livro a seguir.
 
 ![Capa do Livro][logo]
 
@@ -22,7 +24,7 @@ Nessa seção, comento um pouco sobre a motivação para escrever o livro e uma 
 ### Motivação
 A ideia para o livro nasceu de uma situação que se repetia sempre que eu tinha um novo estudante para orientar. Independente do nível de escolaridade em que o estudante se encontrava -- iniciação científica, mestrado ou doutorado --, os problemas de formatação, citação, referências bibliográficas no texto se repetiam. 
 
-Além disso, quando a quantidade e a densidade dos trabalhos aumentou, me deparei com problemas de gerenciamento dos estudantes. Em um determinado momento, eu estava orientando 2 estudantes com trabalhos de conclusão de curso, 3 estudantes de iniciação científica, 4 estudantes de mestrado, um estudante de doutorado, além da orientação outros estudantes na monitoria e bolsistas de trabalho. Essa situação estava ficando impraticável. A todo momento, eu tinha a sensação que estava negligenciando a orientação de alguém.
+Além disso, quando a quantidade e a densidade dos trabalhos aumentou, me deparei com problemas de gerenciamento dos estudantes. Em um determinado momento, eu estava orientando 2 estudantes com trabalhos de conclusão de curso, 3 estudantes de iniciação científica, 4 estudantes de mestrado, um estudante de doutorado, além da orientação outros estudantes na monitoria e bolsistas de trabalho. Eram quase 15 estudantes sob orientação direta, além das coorientações e, claro, as disciplinas que eu lecionava. Essa situação estava ficando impraticável. A todo momento, eu tinha a sensação que estava negligenciando a orientação de alguém.
 
 Por essas razões, decidi utilizar ferramentas na internet que permitissem o seguinte:
 - que os estudantes pudessem atualizar o status dos seus trabalhos a qualquer instante;
@@ -43,7 +45,7 @@ Na primeira parte, eu falo de um software chamado [Trello](http://trello.com) e 
 
 Na segunda parte do livro, a mais extensa, o objetivo é a produção de textos acadêmicos com qualidade tipográfica superior. Aqui, é importante destacar que eu não abordo a questão da Metodologia Científica, pois esse não é o objetivo do livro. Na segunda parte, eu começo com a descrição do software [Mendeley](http://mendeley.com) para gerenciamento de referências. Depois, sigo com a descrição do LaTeX, um software para processamento de textos. 
 
-O LaTeX é um dos principais softwares para a produção de textos acadêmicos, sejam artigos ou monografias. No último capítulo dessa parte, apresento o [Overleaf](https://www.overleaf.com), um software para edição de textos em LaTeX. Note que o LaTeX em si é uma espécie de linguagem que, quando compilada, gerará um documento devidamente formatado. O Overleaf, por sua vez, permite a escrita de um texto em LaTeX, sua compilação ee a verificação de como esse texto ficará, depois de compilado.
+O LaTeX é um dos principais softwares para a produção de textos acadêmicos, sejam artigos ou monografias. No último capítulo dessa parte, apresento o [Overleaf](https://www.overleaf.com), um software para edição de textos em LaTeX. Note que o LaTeX em si é uma espécie de linguagem que, quando compilada, gerará um documento devidamente formatado. O Overleaf, por sua vez, permite a escrita de um texto em LaTeX, sua compilação e a verificação de como esse texto ficará, depois de compilado.
 
 A última parte do livro comenta sobre outros softwares úteis para a pesquisa, inclusive o sistema Git e outras ferramentas úteis para pesquisadores. Entre essas ferramentas estão sites para identificação do pesquisador, para armazenamento de dados para pesquisa e redes sociais para pesquisadores. Todos os sites citados no livro são referenciados no final, inclusive com os QR-codes que permitem o acesso direto aos sites.
 
