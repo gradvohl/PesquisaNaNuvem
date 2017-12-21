@@ -8,7 +8,7 @@ Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para o
 [logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o autor
-Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará, com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou docente na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
+Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou docente na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
 
 - [Lattes](http://lattes.cnpq.br/9343261628675642)
 - [LinkedIn](https://www.linkedin.com/in/andregradvohl)
