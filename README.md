@@ -4,7 +4,8 @@
 Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro, sobre o autor e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva.
 
 ## Sobre o livro
-Nessa seção, comento um pouco sobre a motivação para escrever o livro.
+Nessa seção, comento um pouco sobre a motivação para escrever o livro e uma visão geral do seu conteúdo.
+
 ### Motivação
 A ideia para o livro nasceu de uma situação que se repetia sempre que eu tinha um novo estudante para orientar. Independente do nível de escolaridade em que o estudante se encontrava -- iniciação científica, mestrado ou doutorado --, os problemas de formatação, citação, referências bibliográficas no texto se repetiam. 
 
@@ -27,41 +28,15 @@ O livro está dividido em três partes: Gerenciamento de tarefas; Produção de 
 
 Na primeira parte, eu falo de um software chamado [Trello](http://trello.com) e do método Kanban aplicado à atividade de pesquisa científica. Essa parte é útil para gerenciar as pesquisas que os estudantes estão desenvolvendo.
 
-Na segunda parte do livro, a mais extensa, o objetivo é a produção de textos acadêmicos com qualidade tipográfica superior. Aqui, é importante destacar que eu não abordo a questão da Metodologia Científica, pois esse não é o objetivo do livro. Na segunda parte, eu começo com a descrição do software [Mendeley]()
+Na segunda parte do livro, a mais extensa, o objetivo é a produção de textos acadêmicos com qualidade tipográfica superior. Aqui, é importante destacar que eu não abordo a questão da Metodologia Científica, pois esse não é o objetivo do livro. Na segunda parte, eu começo com a descrição do software [Mendeley](http://mendeley.com) para gerenciamento de referências. Depois, sigo com a descrição do LaTeX, um software para processamento de textos. 
 
+O LaTeX é um dos principais softwares para a produção de textos acadêmicos, sejam artigos ou monografias. No último capítulo dessa parte, apresento o [Overleaf](https://www.overleaf.com), um software para edição de textos em LaTeX. Note que o LaTeX em si é uma espécie de linguagem que, quando compilada, gerará um documento devidamente formatado. O Overleaf, por sua vez, permite a escrita de um texto em LaTeX, sua compilação ee a verificação de como esse texto ficará, depois de compilado.
 
+A última parte do livro comenta sobre outros softwares úteis para a pesquisa, inclusive o sistema Git e outras ferramentas úteis para pesquisadores. Entre essas ferramentas estão sites para identificação do pesquisador, para armazenamento de dados para pesquisa e redes sociais para pesquisadores. Todos os sites citados no livro são referenciados no final, inclusive com os QR-codes que permitem o acesso direto aos sites.
 
+A propósito, todo o livro foi escrito usando as ferramentas que o próprio livro cita: Trello, Mendeley, LaTeX, Overlaf e Github, entre outros.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Por que vale a pena adquirir esse livro?
+Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. Dá para aprender tudo sozinho! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro vai direto ao ponto e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gradvohl/PesquisaNaNuvem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar os detalhes mais específicos para depois.
