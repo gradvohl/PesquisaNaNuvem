@@ -1,11 +1,20 @@
 # A Pesquisa na Nuvem
 ## Ferramentas na internet para organizar e produzir seu trabalho acadêmico
 
-Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
+Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o autor, sobre o livro e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
 
 ![Capa do Livro][logo]
 
 [logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
+
+## Sobre o autor
+Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará, com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou docente na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
+
+- [Lattes](http://lattes.cnpq.br/9343261628675642)
+- [LinkedIn](https://www.linkedin.com/in/andregradvohl)
+- [IEEE](http://ieee.confidentialresume.com/gradvohl)
+- [ORCID](https://orcid.org/0000-0002-6520-9740)
+- [VisualCV](https://www.visualcv.com/andre-leon-gradvohl)
 
 ## Sobre o livro
 Nessa seção, comento um pouco sobre a motivação para escrever o livro e uma visão geral do seu conteúdo.
@@ -74,7 +83,7 @@ A seguir, há uma tabela com o investimento em cada minicurso:
 | (1) Gerenciamento de Tarefas | 2 | 1 | R$ 300,00 |
 | (2) Produção de Documentos   | 20 | 5 | R$ 3.000,00 |
 | (3) Controle de Versões      | 10 | 3 | R$ 1.500,00 |
-| Minicurso (1+2)              | 22 | 6 | R$ 3.000,00 (com desconto)|
+| Minicurso (1+2)              | 22 | 6 | R$ 3.200,00 (com desconto)|
 | Minicurso (2+3)              | 30 | 8 | R$ 4.300,00 (com desconto)|
 
 ### Contato
