@@ -67,5 +67,15 @@ O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, t
 
 Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula de minicurso por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia.
 
+A seguir, há uma tabela com o investimento em cada minicurso:
+
+|Minicurso | Quantidade de Horas/Aula | Quantidade mínima de dias | Valor estimado (sem outros custos associados)|
+|----------|:----------:|:----------:|:----------:|
+| (1) Gerenciamento de Tarefas | 2 | 1 | R$ 300,00 |
+| (2) Produção de Documentos   | 20 | 5 | R$ 3.000,00 |
+| (3) Controle de Versões      | 10 | 3 | R$ 1.500,00 |
+| Minicurso (1+2)              | 22 | 6 | R$ 3.000,00 (com desconto)|
+| Minicurso (2+3)              | 30 | 8 | R$ 4.300,00 (com desconto)|
+
 ### Contato
 Para entrar em contato comigo, utilize o email <gradvohl@ieee.org>.
