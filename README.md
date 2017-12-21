@@ -7,7 +7,7 @@ O livro está disponível no site da [More Books](https://www.morebooks.de/store
 
 ![Capa do Livro][capa]
 
-[capa]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
+[capa]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o autor
 Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou professor na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
@@ -57,7 +57,7 @@ Veja a seguir o índice do livro.
 
 ![Índice do Livro][indice]
 
-[indice]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/indiceLivro.png "Índice do Livro"
+[indice]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/indiceLivro.png "Índice do Livro"
 
 ### Por que vale a pena adquirir esse livro?
 Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. É possível aprender tudo sem um guia! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro indicará os caminhos mais rápidos para aprender e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
@@ -69,20 +69,20 @@ Nas figuras a seguir, estão alguns trechos do livro dos capítulos 3, 4 e 5. A 
 
 ![Trecho Capítulo 3][cap3]
 
-[cap3]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap3.png "Trecho do Capítulo 3"
+[cap3]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/TrechoCap3.png "Trecho do Capítulo 3"
 
 
 A figura a seguir mostra um trecho do Capítulo 4 que descreve o LaTeX.
 
 ![Trecho Capítulo 4][cap4]
 
-[cap4]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap4.png "Trecho do Capítulo 4"
+[cap4]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/TrechoCap4.png "Trecho do Capítulo 4"
 
 Finalmente, a figura a seguir mostra um trecho do Capítulo 5 que comenta sobre o Overleaf.
 
 ![Trecho Capítulo 5][cap5]
 
-[cap5]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/TrechoCap5.png "Trecho do Capítulo 5"
+[cap5]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/imagens/TrechoCap5.png "Trecho do Capítulo 5"
 
 
 ## Minicursos
