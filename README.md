@@ -65,7 +65,7 @@ Você não precisa ler todo o livro para aprender a usar todas as ferramentas qu
 Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, algumas que talvez não precise, você pode "pegar um atalho" e deixar para explorar mais funcionalidades depois que já tiver aprendido o básico. Além disso, ao adquirir o livro, você terá sempre em mãos um guia rápido para sanar as dúvidas.
 
 ## Minicursos
-Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é solicitando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
+Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é contratando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
 
 ### Conteúdos dos minicursos
 A seguir, descrevo as propostas de minicursos e sua respectiva carga horária. Lembre-se que esses minicursos podem ser combinados e formar um curso mais completo, abrangendo dois ou mais temas.
@@ -86,7 +86,7 @@ O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, t
 
 Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia. Recomenda-se também que as turmas tenham no máximo 30 alunos, com 2 alunos por computador no máximo.
 
-A seguir, há uma tabela com os investimentos em cada minicurso ou combinação deles:
+A seguir, há uma tabela com o investimento para cada minicurso ou para a combinação deles:
 
 |Minicurso | Quantidade de Horas/Aula | Quantidade mínima de dias | Valor estimado (sem outros custos associados)|
 |----------|:----------:|:----------:|:----------:|
@@ -97,5 +97,5 @@ A seguir, há uma tabela com os investimentos em cada minicurso ou combinação 
 | Minicursos (2+3)             | 30 | 8 | R$ 4.300,00 (com desconto)|
 | Minicursos (1+2+3)           | 32 | 8 | R$ 4.600,00 (com desconto)|
 
-### Contato
+## Contato
 Para entrar em contato comigo, envie um email para <gradvohl@ieee.org> com o título "Minicurso - Pesquisa na Nuvem".
