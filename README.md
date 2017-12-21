@@ -5,9 +5,9 @@ Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para o
 
 O livro está disponível no site da [More Books](https://www.morebooks.de/store/es/book/a-pesquisa-na-nuvem/isbn/978-620-2-04282-6) ou no site da [Amazon](https://www.amazon.com/Pesquisa-Nuvem-Ferramentas-organizar-Portuguese/dp/6202042826). Veja a capa do livro a seguir.
 
-![Capa do Livro][logo]
+![Capa do Livro][capa]
 
-[logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
+[capa]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o autor
 Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou professor na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
@@ -52,6 +52,10 @@ Note que o LaTeX em si é uma espécie de linguagem que, quando compilada, gerar
 A última parte do livro comenta sobre outros softwares úteis para a pesquisa, inclusive o sistema Git e outras ferramentas úteis para pesquisadores. Entre essas ferramentas estão sites para identificação do pesquisador, para armazenamento de dados para pesquisa e redes sociais para pesquisadores. Todos os sites citados no livro são referenciados no final, inclusive com os QR-codes que permitem o acesso direto aos sites.
 
 A propósito, todo o livro foi escrito usando as ferramentas que o próprio livro cita: Trello, Mendeley, LaTeX, Overlaf e Github, entre outros. **Todas essas ferramentas são gratuitas e estão disponíveis na Internet**.
+
+![Índice do Livro][indice]
+
+[indice]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/indiceLivro.png "Índice do Livro"
 
 ### Por que vale a pena adquirir esse livro?
 Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. Dá para aprender tudo sozinho! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro vai direto ao ponto e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
