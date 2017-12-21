@@ -1,7 +1,11 @@
 # A Pesquisa na Nuvem
 ## Ferramentas na internet para organizar e produzir seu trabalho acadêmico
 
-Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro, sobre o autor e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva.
+Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para organizar e produzir seu trabalho acadêmico**. Nessa página você encontrará informações sobre o livro, sobre o autor e sobre a possibilidade de ter acesso ao conteúdo desse livro em sua instituição de forma mais prática e objetiva. Veja a seguir a capa do livro.
+
+![Capa do Livro][logo]
+
+[logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/src/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o livro
 Nessa seção, comento um pouco sobre a motivação para escrever o livro e uma visão geral do seu conteúdo.
