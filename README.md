@@ -5,7 +5,7 @@ Essa é a página do livro **A Pesquisa na Nuvem: Ferramentas na internet para o
 
 ![Capa do Livro][logo]
 
-[logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/src/CapaLivro2.jpg "Capa do Livro"
+[logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o livro
 Nessa seção, comento um pouco sobre a motivação para escrever o livro e uma visão geral do seu conteúdo.
