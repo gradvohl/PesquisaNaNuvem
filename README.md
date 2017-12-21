@@ -53,6 +53,8 @@ A última parte do livro comenta sobre outros softwares úteis para a pesquisa, 
 
 A propósito, todo o livro foi escrito usando as ferramentas que o próprio livro cita: Trello, Mendeley, LaTeX, Overlaf e Github, entre outros. **Todas essas ferramentas são gratuitas e estão disponíveis na Internet**.
 
+Veja a seguir o índice do livro. 
+
 ![Índice do Livro][indice]
 
 [indice]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/indiceLivro.png "Índice do Livro"
