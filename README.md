@@ -10,7 +10,7 @@ O livro está disponível no site da [More Books](https://www.morebooks.de/store
 [logo]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/CapaLivro2.jpg "Capa do Livro"
 
 ## Sobre o autor
-Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou docente na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
+Você já deve saber, mas não custa repetir. Meu nome é André Leon S. Gradvohl, sou formado em Computação pela Universidade Federal do Ceará (UFC), com Mestrado em Computação e Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA) e Doutorado em Engenharia Elétrica na área de Telecomunicações e Telemática pela Universidade Estadual de Campinas (UNICAMP). Atualmente sou professor na Faculdade de Tecnologia da UNICAMP e membro sênior do Instituto de Engenheiros Elétricos e Eletrônicos (IEEE). Mais detalhes sobre mim podem ser encontrados nos seguintes sites:
 
 - [Lattes](http://lattes.cnpq.br/9343261628675642)
 - [LinkedIn](https://www.linkedin.com/in/andregradvohl)
@@ -28,7 +28,7 @@ Além disso, quando a quantidade e a densidade dos trabalhos aumentou, me depare
 
 Por essas razões, decidi utilizar ferramentas na internet que permitissem o seguinte:
 - que os estudantes pudessem atualizar o status dos seus trabalhos a qualquer instante;
-- que eu pudesse acessar o progresso dos estudantes a qualquer instante e orientá-los a respeito do caminho que estão percorrendo;
+- que eu pudesse acessar o progresso dos estudantes em qualquer instante, de qualquer local e orientá-los a respeito do caminho que estão percorrendo;
 - que os estudantes pudessem escrever seus textos acadêmicos, sem se preocupar tanto com a formatação de acordo com as normas.
 - que eu pudesse acompanhar a escrita dos textos acadêmicos e, eventualmente, colaborar com a escrita desses textos.
 - que tanto os estudantes quanto eu pudéssemos colecionar, fazer anotações e compartilhar as referências bibliográficas necessárias para seus trabalhos.
@@ -39,7 +39,9 @@ As ferramentas escolhidas e o esquema de trabalho que foi combinado com os estud
 Também é importante dizer que os estudantes têm uma importância fundamental para que o esquema de trabalho funcione. Se eles não estiverem dispostos a se organizar e produzir um bom trabalho, o esquema não funcionará. Daí a necessidade de ser um esquema devidamente acordado entre orientador e orientado.
 
 ### Conteúdo do livro
-O livro está dividido em três partes: Gerenciamento de tarefas; Produção de documentos; e Mais ferramentas úteis. É importante destacar que as ferramentas que abordei no livro não são únicas. Existem outras ferramentas similares e que podem ajudar de outras formas. Mas vamos ao conteúdo que abordei no livro.
+O livro está dividido em três partes: Gerenciamento de tarefas; Produção de documentos; e Ferramentas úteis. É importante destacar que as ferramentas que abordei no livro não são as únicas disponíveis para as respectivas tarefas. Existem outras ferramentas similares e que podem ajudar de outras formas. As ferramentas que selecionei para o livro tinham que ser **gratuitas**, **facilmente acessíveis na Internet** e, preferencialmente, **acessíveis com qualquer dispositivo (seja um _smartphone_ ou computador)**.
+
+Mas vamos ao conteúdo que abordei no livro.
 
 Na primeira parte, eu falo de um software chamado [Trello](http://trello.com) e do método Kanban aplicado à atividade de pesquisa científica. Essa parte é útil para gerenciar as pesquisas que os estudantes estão desenvolvendo.
 
