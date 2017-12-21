@@ -60,12 +60,12 @@ Veja a seguir o índice do livro.
 [indice]: https://github.com/gradvohl/PesquisaNaNuvem/raw/master/indiceLivro.png "Índice do Livro"
 
 ### Por que vale a pena adquirir esse livro?
-Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. Dá para aprender tudo sozinho! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro vai direto ao ponto e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
+Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. É possível aprender tudo sem um guia! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro indicará os caminhos mais rápidos para aprender e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
 
-Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar para explorar mais funcionalidades depois que já tiver aprendido o básico.
+Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, algumas que talvez não precise, você pode "pegar um atalho" e deixar para explorar mais funcionalidades depois que já tiver aprendido o básico. Além disso, ao adquirir o livro, você terá sempre em mãos um guia rápido para sanar as dúvidas.
 
 ## Minicursos
-Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é solicitando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou ainda na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
+Outra forma de ter acesso ao conteúdo do livro de maneira ainda mais rápida e prática é solicitando um ou mais minicursos. Nos minicursos, podemos abordar uma ou mais partes do livro, sempre com o foco nas características dos participantes do minicurso e nas suas reais necessidades. Por exemplo, em um minicurso podemos nos concentrar apenas no gerenciamento da pesquisa ou somente na produção de textos acadêmicos, ou na utilização do Git para controle de versões dos softwares ou ainda tudo isso junto em um curso mais longo.
 
 ### Conteúdos dos minicursos
 A seguir, descrevo as propostas de minicursos e sua respectiva carga horária. Lembre-se que esses minicursos podem ser combinados e formar um curso mais completo, abrangendo dois ou mais temas.
@@ -76,12 +76,12 @@ Esse é um minicurso rápido, de **2 horas/aula** (cem minutos), no qual eu desc
 #### Minicurso Produção de Documentos Acadêmicos
 Esse minicurso é mais longo, estimado em **20 horas/aula** no qual eu descrevo as ferramentas Mendeley, para gerenciamento de referências bibliográficas (2 horas/aula); LaTeX, para escrita de textos acadêmicos; e Overleaf, o editor para textos em LaTeX (18 horas/aula). O LaTeX e o Overleaf são ministrados simultaneamente, já que um complementa o outro.
 
-Nesse caso, o laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas e começar a editar seus próprios textos.
+Nesse caso, um laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas e começar a editar seus próprios textos.
 
 #### Minicurso Controle de Versões com Git
 Esse é um minicurso de média duração, estimado em **10 horas/aula**, no qual descrevo os comandos básicos do sistema Git. Nesse minicurso, podemos utilizar os softwares GitHub ou o BitBucket, pois ambos utilizam o Git como base. Um laboratório de informática, com acesso à internet, é fundamental, pois os participantes já poderão utilizar as ferramentas para armazenar seus códigos e trabalhar em grupos.
 
-#### Valor do Investimento
+#### Investimento
 O valor da hora/aula (50 minutos) é R$ 150,00. Além do valor das horas/aula, todos os custos referentes ao transporte, estadia e alimentação são por conta do contratante. Para distâncias superiores a 200 km de distância rodoviária a partir de Campinas-SP, o trajeto deve ser feito por via aérea ou, alternativamente, em veículo na categoria executivo superior (com custo adicional de R$ 150,00 a cada 100 km).
 
 Para o melhor aproveitamento do conteúdo, recomenda-se o máximo de 4 horas/aula por dia, com um intervalo de 30 minutos a cada 2 horas/aula. Não são realizados minicursos com períodos maiores do que 4 horas/aula por dia. Recomenda-se também que as turmas tenham no máximo 30 alunos, com 2 alunos por computador no máximo.
