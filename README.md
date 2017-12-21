@@ -40,3 +40,5 @@ A propósito, todo o livro foi escrito usando as ferramentas que o próprio livr
 Você não precisa ler todo o livro para aprender a usar todas as ferramentas que eu descrevo lá. Dá para aprender tudo sozinho! Porém, o livro vai ajudar a economizar bastante tempo. A razão para isso é que o livro vai direto ao ponto e, na medida em que você vai avançando no conteúdo, você já poderá construir seu próprio esquema de trabalho. 
 
 Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar os detalhes mais específicos para depois.
+
+## Palestra
