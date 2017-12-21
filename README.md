@@ -41,4 +41,5 @@ Você não precisa ler todo o livro para aprender a usar todas as ferramentas qu
 
 Assim, ao invés de perder tempo testando e explorando as funcionalidades de cada software, você pode "pegar um atalho" e deixar os detalhes mais específicos para depois.
 
-## Palestra
+## Palestras
+
